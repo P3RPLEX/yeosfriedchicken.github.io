@@ -585,7 +585,7 @@ img{
 svg {
     width: 25px;
     height: 25px;
-    fill: #0892d0;
+    fill: #9403fc;
     transition: all is ease-in-out;
 }
 
@@ -607,7 +607,7 @@ a.svg:after {
 }
 
 .copyright {
-    color: #0892d0;
+    color: #9403fc;
     float: right-bottom;
     position: absolute;
     display: block;
@@ -625,7 +625,7 @@ a.svg:after {
 
 .copyright .fa {
     display: inline-block;
-    color: #f6f930;
+    color: #ffe600;
     font: 14px/1 FontAwesome;
     font-size: inherit;
     text-rendering: auto;
